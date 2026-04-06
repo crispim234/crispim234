@@ -58,6 +58,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/crispim234/crispim234/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="198" src="https://i.pinimg.com/736x/81/07/6d/81076ddc4cb6737d4163b7a301906fe6.jpg"  />
+</div>
 
 ###
