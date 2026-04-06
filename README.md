@@ -52,14 +52,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crispim234/crispim234/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crispim234/crispim234/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/crispim234/crispim234/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/31u44t3xg6iixayqvmyh7gq6dhdm">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31u44t3xg6iixayqvmyh7gq6dhdm&count=3&unique=false" alt="Spotify recently played"  />
