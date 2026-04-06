@@ -52,16 +52,16 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31u44t3xg6iixayqvmyh7gq6dhdm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31u44t3xg6iixayqvmyh7gq6dhdm&count=1&unique=false" alt="Spotify recently played"  />
-  </a>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=102&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
 </div>
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=102&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crispim234/crispim234/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crispim234/crispim234/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/crispim234/crispim234/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
