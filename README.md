@@ -2,7 +2,7 @@
   <a href="https://www.linkedin.com/in/alexandre-araujo-571847346/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000&logoColor=white&labelColor=000&style=for-the-badge" height="22" alt="linkedin logo"  />
   </a>
-  <a href="https://discord.com/crispim5864" target="_blank">
+  <a href="discord://-/users/crispim5864" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=000&logoColor=white&labelColor=000&style=for-the-badge" height="22" alt="discord logo"  />
   </a>
   <a href="https://www.instagram.com/alexandre.zzk/" target="_blank">
@@ -20,11 +20,11 @@
 
 ###
 
-<p align="left">👋 Olá, eu sou o Alexandre. Tenho interesse em desenvolvimento Front-End e estou sempre buscando aprender mais sobre criação de interfaces modernas, responsivas e funcionais. Atualmente estudo HTML, CSS e JavaScript, com foco em evoluir minhas habilidades e ganhar experiência prática na área de tecnologia.</p>
+<p align="left">Olá, eu sou o Alexandre. Tenho interesse em desenvolvimento Front-End e estou sempre buscando aprender mais sobre criação de interfaces modernas, responsivas e funcionais. Atualmente estudo HTML, CSS e JavaScript, com foco em evoluir minhas habilidades e ganhar experiência prática na área de tecnologia.</p>
 
 ###
 
-<h3 align="left">🛠️LINGUAGENS e FERRAMENTAS</h3>
+<h3 align="left">🛠️LINGUAGENS E FERRAMENTAS</h3>
 
 ###
 
