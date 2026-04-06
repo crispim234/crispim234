@@ -2,9 +2,6 @@
   <a href="https://www.linkedin.com/in/alexandre-araujo-571847346/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000&logoColor=white&labelColor=000&style=for-the-badge" height="22" alt="linkedin logo"  />
   </a>
-  <a href="discord://-/users/crispim5864" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=000&logoColor=white&labelColor=000&style=for-the-badge" height="22" alt="discord logo"  />
-  </a>
   <a href="https://www.instagram.com/alexandre.zzk/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000&logoColor=white&labelColor=000&style=for-the-badge" height="22" alt="instagram logo"  />
   </a>
