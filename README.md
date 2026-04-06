@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="left">🛠️LINGUAGENS</h3>
+<h3 align="left">🛠️LINGUAGENS e Ferramentas</h3>
 
 ###
 
